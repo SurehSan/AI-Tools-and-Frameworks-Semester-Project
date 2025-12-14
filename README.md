@@ -11,7 +11,7 @@ Simple finetuning of EfficientNetV2B0 to be able to classify Simpsons characters
 - Additionally, our model reached a testing F1 and Accuracy score of more than 0.96 on the final test.
 
 
-## What skills did I learn?
+## What skills did I develop?
 - Finetuning
 - Project management
 - Team collaboration
